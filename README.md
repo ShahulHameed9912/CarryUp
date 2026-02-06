@@ -11,7 +11,8 @@ The Home screen serves as the main entry point of the application, designed to h
 - “Recommended for You” section showcasing curated products with starting prices
 - “Best Selling” section to highlight popular items
 - Bottom navigation bar with access to Home, Cart, and Profile
-  <img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 07" src="https://github.com/user-attachments/assets/81473f70-c127-43a5-9ef1-903919b5d88e" />
+
+<img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 07" src="https://github.com/user-attachments/assets/81473f70-c127-43a5-9ef1-903919b5d88e" />
   
 ## 👟 Category / Product Listing Screen
 This screen displays products belonging to a selected category in a grid layout.
