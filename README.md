@@ -11,7 +11,7 @@ The Home screen serves as the main entry point of the application, designed to h
 - “Recommended for You” section showcasing curated products with starting prices
 - “Best Selling” section to highlight popular items
 - Bottom navigation bar with access to Home, Cart, and Profile
-  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 07" src="https://github.com/user-attachments/assets/81473f70-c127-43a5-9ef1-903919b5d88e" />
+  <img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 07" src="https://github.com/user-attachments/assets/81473f70-c127-43a5-9ef1-903919b5d88e" />
   
 ## 👟 Category / Product Listing Screen
 This screen displays products belonging to a selected category in a grid layout.
@@ -23,7 +23,7 @@ This screen displays products belonging to a selected category in a grid layout.
 - “Add to Cart” button for quick purchasing
 - Clean two-column grid optimized for browsing
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 25" src="https://github.com/user-attachments/assets/1d574707-a3aa-4bef-b97f-fdf9ca9abe7f" />
+<img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 25" src="https://github.com/user-attachments/assets/1d574707-a3aa-4bef-b97f-fdf9ca9abe7f" />
 
 ## 🛒 Cart Screen
 The Cart screen allows users to review and manage selected items before checkout.
@@ -35,7 +35,7 @@ The Cart screen allows users to review and manage selected items before checkout
 - Prominent “Checkout” button for proceeding to purchase
 - Bottom navigation highlighting the Cart tab
 
-  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 37 30" src="https://github.com/user-attachments/assets/d2320ade-ad5a-4cbf-aa4e-b6f9226857c1" />
+  <img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 37 30" src="https://github.com/user-attachments/assets/d2320ade-ad5a-4cbf-aa4e-b6f9226857c1" />
 
   
 ## 👤 Profile Screen
@@ -48,7 +48,7 @@ The Profile screen provides account-related actions and user preferences.
 - Simple, clean layout focused on usability
 - Bottom navigation highlighting the Profile tab
 
-  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 49" src="https://github.com/user-attachments/assets/377b100c-0e51-4c09-a7e4-cfedb9ec0c9e" />
+  <img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-02-06 at 21 36 49" src="https://github.com/user-attachments/assets/377b100c-0e51-4c09-a7e4-cfedb9ec0c9e" />
 
   
 ## 🎨 UI & Design Highlights
